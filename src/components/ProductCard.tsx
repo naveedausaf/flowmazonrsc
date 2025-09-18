@@ -22,6 +22,9 @@ export default function ProductCard({ product }: ProductCardProps) {
           width={687}
           height={1000}
           className="h-48 object-cover"
+          placeholder="blur"
+          blurDataURL="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=="
+          sizes="100vw"
         />
       </figure>
       <div className="card-body">

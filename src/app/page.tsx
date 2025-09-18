@@ -19,6 +19,9 @@ export default async function Home() {
             width={400}
             height={800}
             className="w-full max-w-sm rounded-lg shadow-2xl"
+            placeholder="blur"
+            blurDataURL="data:image/jpeg;base64,
+  LiPQEMM{~qoy?bkCIUay%MoeIUay"
             priority
           />
           <div>
